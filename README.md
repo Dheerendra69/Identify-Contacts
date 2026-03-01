@@ -20,7 +20,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/<your-username>/bitespeed-identity.git
+git clone https://github.com/Dheerendra69/Identify-Contacts.git
 cd bitespeed-identity
 npm install
 ```
