@@ -21,7 +21,7 @@
 
 ```bash
 git clone https://github.com/Dheerendra69/Identify-Contacts.git
-cd bitespeed-identity
+cd Identify-Contacts
 npm install
 ```
 
